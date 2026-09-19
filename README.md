@@ -1,2 +1,2 @@
 # AnatomyOfUncertainty
-This is the official repository of the paper "Anatomy of Uncertainty: Expressive Descriptors of Robotic Manipulator Motion for Non-verbal Communication in Human-Robot Collaboration".
+This is the official repository for the paper "Expressive motion, Robotic manipulator, Perceptual uncertainty, Nonverbal communication, Laban Movement Analysis, Human-robot collaboration".
